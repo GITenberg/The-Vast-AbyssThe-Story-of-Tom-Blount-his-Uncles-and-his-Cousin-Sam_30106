@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30106#The-Vast-AbyssThe-Story-of-Tom-Blount-his-Uncles-and-his-Cousin-Sam
 gutenberg_issued: '2009-09-27'
 gutenberg_type: Text
 identifiers:
