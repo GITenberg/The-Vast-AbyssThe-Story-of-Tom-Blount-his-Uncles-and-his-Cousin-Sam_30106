@@ -1,0 +1,43 @@
+_repo: The-Vast-AbyssThe-Story-of-Tom-Blount-his-Uncles-and-his-Cousin-Sam_30106
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Overend, William Heysham
+    aliases:
+    - Overend, W. H. (William Heysham)
+    - Overend, W.H.
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '9706'
+    url: http://www.gutenberg.org/2009/agents/9706
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. Manville (George Manville)
+    - Fenn, G. M. (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2009-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcc 'PZ'
+title: 'The Vast Abyss
+
+  The Story of Tom Blount, his Uncles and his Cousin Sam'
+url: http://www.gutenberg.org/ebooks/30106
